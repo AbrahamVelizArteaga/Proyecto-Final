@@ -1,0 +1,11 @@
+main {
+    height: 250px;
+    width: 100%;
+    background-image:url(../img/portada.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding-left: 100px;
+    padding-top: 50px;
+}
